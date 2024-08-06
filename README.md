@@ -4,7 +4,7 @@
 
 - Project Lead: Affan Khan
 - Backend Developer: Abdullah Khan
-- Janitor Intern: Wisam
+- Designing Intern: Wisam
 
 ## How to run
 
