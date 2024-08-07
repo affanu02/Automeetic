@@ -10,13 +10,9 @@ AutoMeetic is a social platform designed for car enthusiasts to connect and shar
 - Messaging: Chat with group members and plan meetups.
 - Personalized Settings: Customize your app experience with various settings options.
 
-## Screenshots
+## Live Demo
 
-<img src="./mnt/data/Groups.jpeg" alt="Groups" width="300">
-<img src="./mnt/data/homepage.gif" alt="Homepage" width="300">
-<img src="./mnt/data/Messages.jpeg" alt="Messages" width="300">
-<img src="./mnt/data/search page.gif" alt="Search" width="300">
-<img src="./mnt/data/Settings.jpeg" alt="Settings" width="300">
+![Live Demo](demo/live-demo.gif)
 
 ## Authors and acknowledgment
 
