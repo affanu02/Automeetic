@@ -35,11 +35,11 @@ export default function CalendarAgenda() {
   return (
     <Agenda
       items={{
-        "2024-03-13": [{ name: "Classic Groups Meetup" }],
-        "2024-03-14": [{ name: "BF1 meetup", height: 80 }],
-        "2024-03-15": [{ name: "Demo Day" }],
-        "2024-03-16": [{ name: "truckers meetup" }],
-        "2024-03-18": [
+        "2024-08-03": [{ name: "Classic Groups Meetup" }],
+        "2024-08-04": [{ name: "BF1 meetup", height: 80 }],
+        "2024-08-05": [{ name: "Demo Day" }],
+        "2024-08-06": [{ name: "truckers meetup" }],
+        "2024-08-08": [
           { name: "Ridgeway plaza meetup" },
           { name: "GTA classics meetup" },
         ],
