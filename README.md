@@ -1,5 +1,21 @@
 # Automeetic
 
+AutoMeetic is a social platform designed for car enthusiasts to connect and share their passion for cars. Through the app, users can join various car groups, chat with fellow enthusiasts, and organize or participate in car meetups. The app aims to foster a vibrant community where car lovers can come together both online and in person.
+
+## Features
+
+![Home Page](demo/homepage.gif)
+
+- Upcoming Events: Explore and participate in upcoming car meetups and events.
+  ![Groups Page](demo/Groups.jpeg)
+- Join Groups: Connect with like-minded car enthusiasts by joining specific car groups.
+  ![Search Page](demo/search.gif)
+- Search Upcoming Events: Search for upcoming events near you.
+  ![Messages Page](demo/Messages.jpeg)
+- Messaging: Chat with group members and plan meetups.
+  ![Settings Page](demo/Settings.jpeg)
+- Personalized Settings: Customize your app experience with various settings options.
+
 ## Authors and acknowledgment
 
 - Project Lead: Affan Khan
